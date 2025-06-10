@@ -1,0 +1,6 @@
+services:
+  - type: static
+    name: portfolio
+    env: static
+    buildCommand: ""
+    staticPublishPath: .
